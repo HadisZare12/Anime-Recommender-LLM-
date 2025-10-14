@@ -61,18 +61,6 @@ venv\Scripts\activate      # On Windows
 pip install -r requirements.txt
 ```
 
-**Example `requirements.txt`:**
-```
-langchain
-langchain-community
-langchain-groq
-chromadb
-huggingface-hub
-sentence-transformers
-pandas
-gradio
-```
-
 ### 4️⃣ Add Your API Key
 Create a `.env` file and add your Groq API key (or any other LLM provider):
 ```
