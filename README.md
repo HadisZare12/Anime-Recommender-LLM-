@@ -106,6 +106,7 @@ python app.py
 The Gradio interface will launch at:
 
 👉 **http://127.0.0.1:7860**
+>>> Warning : It's usable just for 72 hours, I use the free version API...
 
 Then, simply type your preference:
 > “I want a lighthearted romantic comedy anime.”
