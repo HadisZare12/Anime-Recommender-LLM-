@@ -83,20 +83,6 @@ GROQ_API_KEY=your_api_key_here
 
 The app uses a custom anime-style background and transparent text boxes.
 
-Example section of the UI:
-
-```python
-.gradio-container {
-    background-image: url("https://anime_bg.jpg");
-    background-size: cover;
-    background-position: center;
-}
-```
-
-![Screenshot Example](https://via.placeholder.com/800x450?text=Anime+Recommender+Preview)
-
----
-
 ## ▶️ Run the App
 
 ```bash
